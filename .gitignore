@@ -1,0 +1,10 @@
+.idea/HolyWeb.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+api/__pycache__/api_client.cpython-310.pyc
+config/__pycache__/__init__.cpython-310.pyc
+config/__pycache__/constants.cpython-310.pyc
+tests/__pycache__/__init__.cpython-310.pyc
+tests/__pycache__/test_register_page.cpython-310-pytest-7.4.3.py
